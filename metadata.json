@@ -1,0 +1,7 @@
+{
+  "name": "Marathon Manager",
+  "description": "Application complète de gestion de marathon : inscription, dossards et chronométrage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
